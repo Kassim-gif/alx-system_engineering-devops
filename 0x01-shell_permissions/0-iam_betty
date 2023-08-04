@@ -1,3 +1,11 @@
 #!/bin/bash
+<<<<<<< HEAD
 #This is the project on shell permissions
 This directory contains files that will help us learn about shell basics
+=======
+su betty
+<<<<<<< HEAD
+=======
+
+>>>>>>> 81cc922f20f43aae914f8f971f2bb81959bf778f
+>>>>>>> b479adce8a87ea261b27bb13f3ed92ff23f94179
