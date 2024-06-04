@@ -16,4 +16,4 @@ then
 elif [ "$#" == 2 ]
 then
   domain_information "$1" "$2"
-fi
+fi    
