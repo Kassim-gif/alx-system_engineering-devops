@@ -1,0 +1,189 @@
+[34m
+* Datadog Agent 7 install script v1.31.8
+[0m
+[34m
+* Installing apt-transport-https, curl and gnupg
+[0m
+Hit:1 http://security.ubuntu.com/ubuntu focal-security InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu focal InRelease
+Hit:3 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu focal InRelease
+Ign:4 https://apt.datadoghq.com stable InRelease
+Hit:5 https://apt.datadoghq.com stable Release
+Hit:6 http://archive.ubuntu.com/ubuntu focal-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu focal-backports InRelease
+Reading package lists...
+E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 4183 (apt-get)
+[31mInstallation failed: Unable to get lock.
+Retrying in 5s (1/10).[0m
+[34m
+* Installing apt-transport-https, curl and gnupg
+[0m
+Hit:1 http://archive.ubuntu.com/ubuntu focal InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu focal-updates InRelease
+Hit:3 http://security.ubuntu.com/ubuntu focal-security InRelease
+Hit:4 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu focal InRelease
+Ign:5 https://apt.datadoghq.com stable InRelease
+Hit:6 http://archive.ubuntu.com/ubuntu focal-backports InRelease
+Hit:7 https://apt.datadoghq.com stable Release
+Reading package lists...
+E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 4183 (apt-get)
+[31mInstallation failed: Unable to get lock.
+Retrying in 10s (2/10).[0m
+[34m
+* Installing apt-transport-https, curl and gnupg
+[0m
+Hit:1 http://archive.ubuntu.com/ubuntu focal InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu focal-updates InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu focal-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu focal-security InRelease
+Hit:5 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu focal InRelease
+Ign:6 https://apt.datadoghq.com stable InRelease
+Hit:7 https://apt.datadoghq.com stable Release
+Reading package lists...
+E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 4183 (apt-get)
+[31mInstallation failed: Unable to get lock.
+Retrying in 15s (3/10).[0m
+[34m
+* Installing apt-transport-https, curl and gnupg
+[0m
+Hit:1 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu focal InRelease
+Ign:2 https://apt.datadoghq.com stable InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu focal InRelease
+Hit:4 http://security.ubuntu.com/ubuntu focal-security InRelease
+Hit:5 https://apt.datadoghq.com stable Release
+Hit:6 http://archive.ubuntu.com/ubuntu focal-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu focal-backports InRelease
+Reading package lists...
+E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 4183 (apt-get)
+[31mInstallation failed: Unable to get lock.
+Retrying in 20s (4/10).[0m
+[34m
+* Installing apt-transport-https, curl and gnupg
+[0m
+Hit:1 http://security.ubuntu.com/ubuntu focal-security InRelease
+Hit:2 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu focal InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu focal InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu focal-updates InRelease
+Hit:5 http://archive.ubuntu.com/ubuntu focal-backports InRelease
+Ign:6 https://apt.datadoghq.com stable InRelease
+Hit:7 https://apt.datadoghq.com stable Release
+Reading package lists...
+E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 4183 (apt-get)
+[31mInstallation failed: Unable to get lock.
+Retrying in 25s (5/10).[0m
+[34m
+* Installing apt-transport-https, curl and gnupg
+[0m
+Hit:1 http://archive.ubuntu.com/ubuntu focal InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu focal-updates InRelease
+Hit:3 http://security.ubuntu.com/ubuntu focal-security InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu focal-backports InRelease
+Hit:5 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu focal InRelease
+Ign:6 https://apt.datadoghq.com stable InRelease
+Hit:7 https://apt.datadoghq.com stable Release
+Reading package lists...
+E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 4183 (apt-get)
+[31mInstallation failed: Unable to get lock.
+Retrying in 30s (6/10).[0m
+[34m
+* Installing apt-transport-https, curl and gnupg
+[0m
+Hit:1 http://security.ubuntu.com/ubuntu focal-security InRelease
+Hit:2 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu focal InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu focal InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu focal-updates InRelease
+Hit:5 http://archive.ubuntu.com/ubuntu focal-backports InRelease
+Ign:6 https://apt.datadoghq.com stable InRelease
+Hit:7 https://apt.datadoghq.com stable Release
+Reading package lists...
+E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 4183 (apt-get)
+[31mInstallation failed: Unable to get lock.
+Retrying in 35s (7/10).[0m
+[34m
+* Installing apt-transport-https, curl and gnupg
+[0m
+Hit:1 http://security.ubuntu.com/ubuntu focal-security InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu focal InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu focal-updates InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu focal-backports InRelease
+Ign:5 https://apt.datadoghq.com stable InRelease
+Hit:6 https://apt.datadoghq.com stable Release
+Hit:7 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu focal InRelease
+Reading package lists...
+E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 4183 (apt-get)
+[31mInstallation failed: Unable to get lock.
+Retrying in 40s (8/10).[0m
+[34m
+* Installing apt-transport-https, curl and gnupg
+[0m
+Hit:1 http://archive.ubuntu.com/ubuntu focal InRelease
+Hit:2 http://security.ubuntu.com/ubuntu focal-security InRelease
+Ign:3 https://apt.datadoghq.com stable InRelease
+Get:4 http://archive.ubuntu.com/ubuntu focal-updates InRelease [128 kB]
+Hit:5 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu focal InRelease
+Hit:6 https://apt.datadoghq.com stable Release
+Hit:7 http://archive.ubuntu.com/ubuntu focal-backports InRelease
+Get:9 http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages [1,509 kB]
+Get:10 http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages [4,149 kB]
+Fetched 5,786 kB in 11s (521 kB/s)
+Reading package lists...
+E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 4183 (apt-get)
+[31mInstallation failed: Unable to get lock.
+Retrying in 45s (9/10).[0m
+[34m
+* Installing apt-transport-https, curl and gnupg
+[0m
+Ign:1 https://apt.datadoghq.com stable InRelease
+Hit:2 https://apt.datadoghq.com stable Release
+Hit:3 http://archive.ubuntu.com/ubuntu focal InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu focal-updates InRelease
+Hit:5 http://archive.ubuntu.com/ubuntu focal-backports InRelease
+Hit:6 http://security.ubuntu.com/ubuntu focal-security InRelease
+Hit:7 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu focal InRelease
+Reading package lists...
+E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 4183 (apt-get)
+[31mInstallation failed: Unable to get lock.
+Retrying in 50s (10/10).[0m
+[34m
+* Installing APT package sources for Datadog
+[0m
+gpg: key 32637D44F14F620E: "Datadog, Inc. Master key (2020-09-08) <package+masterkey@datadoghq.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+gpg: key E6266D4AC0962C7D: "Datadog, Inc. APT key (2023-04-20) (APT key) <package+aptkey@datadoghq.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+gpg: key 32637D44F14F620E: "Datadog, Inc. Master key (2020-09-08) <package+masterkey@datadoghq.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+gpg: key D3A80E30382E94DE: "Datadog, Inc <package@datadoghq.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+Ign:1 https://apt.datadoghq.com stable InRelease
+Hit:2 https://apt.datadoghq.com stable Release
+Reading package lists...
+  [33mInstalling package(s): datadog-agent datadog-signing-keys
+[0m
+W: --force-yes is deprecated, use one of the options starting with --allow instead.
+E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 4183 (apt-get)
+E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), is another process using it?
+[31mERROR
+Failed to install one or more packages, sometimes it may be
+due to another APT source failing. See the logs above to
+determine the cause.
+If the cause is unclear, please contact Datadog support.
+*****
+
+It looks like you hit an issue when trying to install the Datadog Agent.
+
+    
+
+Troubleshooting and basic usage information for the Datadog Agent are available at:
+
+    https://docs.datadoghq.com/agent/basic_agent_usage/
+[0m
+Do you want to send a failure report to Datadog (including ddagent-install.log)? (y/[n]) Timed out or input EOF reached, assuming 'No'
+
+If you are still having problems, please send an email to support@datadoghq.com
+with the contents of ddagent-install.log and any information you think would be
+useful and we will do our very best to help you solve your problem.
